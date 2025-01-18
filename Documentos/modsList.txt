@@ -1,0 +1,247 @@
+Mods del Server
+
+--Otros mods
+--1--
+Gunpoint Redemption [B.41/B.42]
+Workshop ID:3078291265
+Mod ID:GRGV
+
+
+--Apocapipsis live
+--1--
+Bushcraft Gear - Tools
+Workshop ID:2423906082
+Mod ID:BCGTools
+
+--2--
+Undead Survivor
+Workshop ID:2713921292
+Mod ID:UndeadSuvivor
+
+--3--
+Sleeping Bags! (B41)
+Workshop ID:2714848168
+Mod ID:PwSleepingbags
+
+--4--
+50% Wood Weight
+Workshop ID:2377867605
+Mod ID:ReducedWoodWeight2x41
+
+--5--
+Vehicle Recycling Patch
+Workshop ID:2833065348
+Mod ID:VehicleRecyclingPatch
+
+--Req(5)--
+Vehicle Recycling
+Workshop ID:2289429759
+Mod ID:VehicleRecycling
+
+--6--
+Dylan's Tile Pack
+Workshop ID:2599752664
+Mod ID:DylansTiles
+
+--7--
+Noir's Attachments
+Workshop ID:2754567348
+Mod ID:nattachments
+
+--9--
+[B41/B42] Item Condition    -> Calidad de vida
+Workshop ID:2852309899
+Mod ID:qdx_item_condition
+
+--10--
+Lifestyle:Hobbies [B41]
+Workshop ID:2997342681
+Mod ID:Lifestyle
+
+--11--
+Sentido Común
+Workshop ID:2875848298
+Mod ID:BB_CommonSense
+
+--12--
+Advanced trajectory
+Workshop ID:2895102994
+Mod ID:Advanced_trajectory
+
+--13--
+Equipment UI - Paper Doll Equipment Interface [B42/41]
+Workshop ID:2950902979
+Mod ID:EQUIPMENT_UI
+
+--14--
+Autotsar Tuning Atelier - DeRumba Van [TUNING 2.0]
+Workshop ID:2811232708
+Mod ID:ATA_VanDeRumba
+
+--15--
+Autotsar Tuning Atelier - Chevalier Samara [TUNING 2.0]
+Workshop ID:2850439818
+Mod ID:ATA_Samara
+
+--16--
+[B41/B42] Rain Cleans Blood
+Workshop ID:2956146279
+Mod ID:RainCleansBlood
+
+--17--
+Autotsar Tuning Atelier - Bumer 36E
+Workshop ID:2946111058
+Mod ID:ATA_BMW_E36
+
+--18--
+'89 LAND ROVER Defender 110 [Working/Outdated]
+Workshop ID:2441990998
+Mod ID:89def110
+
+--19--
+'91 RANGE ROVER Classic
+Workshop ID:2409333430
+Mod ID:91range
+
+--20--
+'89 LAND ROVER Defender 90 [Working/Outdated]
+Workshop ID:2443275640
+Mod ID:89def90
+
+--21--
+'86 Oshkosh P19A + Military Trailers
+Workshop ID:2566953935
+Mod ID:86oshkoshP19A
+
+--22--
+'82 Oshkosh M911 + Military Semi-Trailers
+Workshop ID:2618213077
+Mod ID:82oshkoshM911
+
+--23--
+'63 Volkswagen 1300 Beetle
+Workshop ID:3005903549
+Mod ID:63beetle
+
+--24--
+'87 Ford B700/F700 Trucks
+Workshop ID:3110911330
+Mod ID:87fordB700
+
+--25--
+'86 Ford Econoline E-150 + Pop Culture vans
+Workshop ID:2870394916
+Mod ID:86fordE150
+Mod ID:86fordE150dnd
+Mod ID:86fordE150mm
+Mod ID:86fordE150pd
+
+--26--
+'90 Zanella 50cc Delivery Scooter
+Workshop ID:2922441474
+Mod ID:90zanella50cc
+
+--27--
+Authentic Z
+Workshop ID:2335368829
+Mod ID:AuthenticZBackpacks+
+Mod ID:Authentic Z - Current
+Mod ID:AuthenticZLite
+
+--28--
+True Actions. Act 3 - Dancing
+Workshop ID:2648779556
+Mod ID:TrueActionsDancing
+
+--29--
+Fuel Side Indicator
+Workshop ID:2616986064
+Mod ID:fuelsideindicator
+
+--30--
+Has Been Read
+Workshop ID:2544353492
+Mod ID:P4HasBeenRead
+
+--31--
+Raven Сreek
+Workshop ID:2196102849
+Mod ID:RavenCreek
+
+--32--
+Spongie's Hair
+Workshop ID:2463184726
+Mod ID:SpnHair
+
+--33--
+Containers!
+Workshop ID:2625625421
+Mod ID:isoContainers
+
+--34--
+True Actions. Act 1 & 2 - Sitting & Lying [for MP disable anti-cheat type 12]
+Workshop ID:2487022075
+Mod ID:TMC_TrueActions
+
+--35--
+Rain Wash
+Workshop ID:2657661246
+Mod ID:RainWash
+
+--36--
+Autotsar Trailers
+Workshop ID:2282429356
+Mod ID:autotsartrailers
+
+--37--
+Autotsar Tuning Atelier - Fjord Mustard [TUNING 2.0]
+Workshop ID:2681635926
+Mod ID:ATA_Mustang
+Mod ID:ATA_Mustang_x2
+Mod ID:ATA_Mustang_x4
+
+--38--
+Autotsar Tuning Atelier - Bus [TUNING 2.0]
+Workshop ID:2592358528
+Mod ID:ATA_Bus
+
+--39-- -> Map
+Little Township
+Workshop ID:2542249811
+Mod ID:LittleTownship
+
+--30-- -> Map
+Lake Ivy Township
+Workshop ID:2252982049
+Mod ID:lakeivytownship
+
+--Req(38,37,36,34,26,14)--
+Tsar's Common Library 2.0
+Workshop ID:2392709985
+Mod ID:tsarslib
+
+--Req(26)--
+Aquatsar Yacht Club [for MP disable anti-cheat type 12]
+Workshop ID:2392987599
+Mod ID:AquatsarYachtClub
+
+--Req(26)--
+Autotsar Motorclub
+Workshop ID:2778576730
+Mod ID:amclub
+
+--Req(33,25,24,23,22,21)--
+that DAMN Library
+Workshop ID:3171167894
+Mod ID:damnlib
+
+--Req(2)--
+Fluffy Hair [B41 & B42]
+Workshop ID:2447729538
+Mod ID:FH
+
+
+
+
+
+
