@@ -6,6 +6,11 @@ Gunpoint Redemption [B.41/B.42]
 Workshop ID:3078291265
 Mod ID:GRGV
 
+--2--
+Schizophrenia Trait Mod
+Workshop ID:2711720885
+Mod ID:SchizophreniaTrait
+
 
 --Apocapipsis live
 --1--
@@ -32,11 +37,6 @@ Mod ID:ReducedWoodWeight2x41
 Vehicle Recycling Patch
 Workshop ID:2833065348
 Mod ID:VehicleRecyclingPatch
-
---Req(5)--
-Vehicle Recycling
-Workshop ID:2289429759
-Mod ID:VehicleRecycling
 
 --6--
 Dylan's Tile Pack
@@ -163,7 +163,7 @@ Has Been Read
 Workshop ID:2544353492
 Mod ID:P4HasBeenRead
 
---31--
+--31-- ->Map
 Raven Сreek
 Workshop ID:2196102849
 Mod ID:RavenCreek
@@ -205,20 +205,30 @@ Autotsar Tuning Atelier - Bus [TUNING 2.0]
 Workshop ID:2592358528
 Mod ID:ATA_Bus
 
---39-- -> Map
+--39-- ->Map
 Little Township
 Workshop ID:2542249811
 Mod ID:LittleTownship
 
---30-- -> Map
+--40-- ->Map
 Lake Ivy Township
 Workshop ID:2252982049
 Mod ID:lakeivytownship
+
+--Req(5)--
+Vehicle Recycling
+Workshop ID:2289429759
+Mod ID:VehicleRecycling
 
 --Req(38,37,36,34,26,14)--
 Tsar's Common Library 2.0
 Workshop ID:2392709985
 Mod ID:tsarslib
+
+--Req(26)-- ->Map
+Cherbourg
+Workshop ID:1827428289
+Mod ID:cherbourg
 
 --Req(26)--
 Aquatsar Yacht Club [for MP disable anti-cheat type 12]
