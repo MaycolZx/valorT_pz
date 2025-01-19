@@ -11,87 +11,6 @@ Schizophrenia Trait Mod
 Workshop ID:2711720885
 Mod ID:SchizophreniaTrait
 
-#
---3--
-True Music
-Workshop ID: 2613146550
-Mod ID: truemusic
-#
---Req(3)--
-TCCacheMP
-Workshop ID: 2688809268
-Mod ID: TsarcraftCache2
-#
---4--
-Brita's Weapon Pack
-Workshop ID: 2200148440
-Mod ID: Brita
-#
---5--
-Better Sorting
-Workshop ID: 2313387159
-Mod ID: BetterSortCC
-#
---6--
-Skill Recovery Journal
-Workshop ID: 2503622437
-Mod ID: SkillRecoveryJournal
-#
---7--
-Noir's Rifle Slings
-Workshop ID: 2786499395
-Mod ID: noirrsling
-#
---8--
-Extra Gun Slot
-ID taller: 3120702374
-ID de modificación: BB_ExtraGunSlot
-#
---9--
-True Music Addon: French Music
-Workshop ID: 2738120301
-Mod ID: Skibidipa
-#
---11--
-Cat's Faster Reading Mod
-Workshop ID: 2690908199
-Mod ID: CatsReadMod
-#
---12--
-Craft Helper Continued
-Workshop ID: 2787291513
-Mod ID: CraftHelperContinued
-#
---13--
-On the Door
-Workshop ID: 3056481712
-Mod ID: P4OnTheDoor
-#
---14--
-Brita's Armor Pack
-Workshop ID: 2460154811
-Mod ID: Brita_2
-#
---15--
-Jump Through Windows
-Workshop ID: 2688884240
-Mod ID: jumpThroughWindows
-##
---16--
-Auto Mechanics B41
-Workshop ID: 2588598892
-Mod ID: AutoMechanics
-##
---17--
-zRe Better Lockpicking
-Workshop ID: 2929123989
-Mod ID: zReBetterLockpicking
-Mod ID: zReBetterLockpickingLYSLP
-##
---18--
-Blowtorch Gates! (Work in all ver.)
-Workshop ID: 2937578830
-Mod ID: Blowtorch Gates
 
 --Apocapipsis live
 --1--
@@ -244,6 +163,11 @@ Has Been Read
 Workshop ID:2544353492
 Mod ID:P4HasBeenRead
 
+--31-- ->Map
+Raven Сreek
+Workshop ID:2196102849
+Mod ID:RavenCreek
+
 --32--
 Spongie's Hair
 Workshop ID:2463184726
@@ -281,11 +205,15 @@ Autotsar Tuning Atelier - Bus [TUNING 2.0]
 Workshop ID:2592358528
 Mod ID:ATA_Bus
 
---39--
-InGameMaps [Cherbourg]
-Workshop ID:2763515304
-Mod ID:InGameMaps_cherbourg
-Mod ID:InGameMaps_cherbourg_SP
+--39-- ->Map
+Little Township
+Workshop ID:2542249811
+Mod ID:LittleTownship
+
+--40-- ->Map
+Lake Ivy Township
+Workshop ID:2252982049
+Mod ID:lakeivytownship
 
 --Req(5)--
 Vehicle Recycling
